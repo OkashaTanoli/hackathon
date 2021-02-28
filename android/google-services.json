@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "539713915525",
+    "firebase_url": "https://mycollegehackathon-default-rtdb.firebaseio.com",
+    "project_id": "mycollegehackathon",
+    "storage_bucket": "mycollegehackathon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539713915525:android:906b7e7641d9fd85dd77ec",
+        "android_client_info": {
+          "package_name": "com.awesome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539713915525-po663td372eorefq3bch0r8hj3re9059.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlYxJKtQh_1k5b-m6_wL33of_3HclURmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539713915525-po663td372eorefq3bch0r8hj3re9059.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
